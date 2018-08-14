@@ -1,6 +1,6 @@
 {
   "name": "incipar",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Minimal starter for React app.",
   "main": "index.js",
   "scripts": {
@@ -17,7 +17,7 @@
     "starter",
     "minimal"
   ],
-  "author": "chunqiuyiyu",
+  "author": "chunqiuyiyu <chunqiuyiyu@outlook.com> (https://www.chunqiuyiyu.com/)",
   "license": "MIT",
   "devDependencies": {
     "chalk": "^2.3.0",
@@ -26,5 +26,13 @@
     "commander": "^2.15.1",
     "figlet": "^1.2.0",
     "standard": "^11.0.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chunqiuyiyu/incipar.git"
+  },
+  "bugs": {
+    "url": "https://github.com/chunqiuyiyu/incipar/issues"
+  },
+  "homepage": "https://github.com/chunqiuyiyu/incipar#readme"
 }
