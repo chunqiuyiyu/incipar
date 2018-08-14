@@ -1,0 +1,8 @@
+{
+  "name": "incipar",
+  "version": "0.1.0",
+  "scripts": {
+    "start": "parcel serve ./public/index.html",
+    "build": "parcel build ./public/index.html"
+  }
+}

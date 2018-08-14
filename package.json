@@ -1,0 +1,30 @@
+{
+  "name": "incipar",
+  "version": "1.0.0",
+  "description": "Minimal starter for React app.",
+  "main": "index.js",
+  "scripts": {
+    "lint": "standard",
+    "fix": "standard --fix"
+  },
+  "bin": {
+    "incipar": "./index.js"
+  },
+  "keywords": [
+    "react",
+    "build-tools",
+    "zero-configuration",
+    "starter",
+    "minimal"
+  ],
+  "author": "chunqiuyiyu",
+  "license": "MIT",
+  "devDependencies": {
+    "chalk": "^2.3.0",
+    "clear": "0.0.1",
+    "clui": "^0.3.6",
+    "commander": "^2.15.1",
+    "figlet": "^1.2.0",
+    "standard": "^11.0.1"
+  }
+}
