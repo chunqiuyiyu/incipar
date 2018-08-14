@@ -1,6 +1,6 @@
 {
   "name": "incipar",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Minimal starter for React app.",
   "main": "index.js",
   "scripts": {
@@ -19,7 +19,7 @@
   ],
   "author": "chunqiuyiyu <chunqiuyiyu@outlook.com> (https://www.chunqiuyiyu.com/)",
   "license": "MIT",
-  "devDependencies": {
+  "dependencies": {
     "chalk": "^2.3.0",
     "clear": "0.0.1",
     "clui": "^0.3.6",
