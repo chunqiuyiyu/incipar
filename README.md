@@ -9,7 +9,7 @@ Minimal starter for React app, based on [parcel-bundler](https://github.com/parc
 * Easy to expand
 
 ## Preview
-```shell
+```
   ___                  _
  |_ _|  _ __     ___  (_)  _ __     __ _   _ __
   | |  | '_ \   / __| | | | '_ \   / _` | | '__|
