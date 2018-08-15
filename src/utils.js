@@ -91,8 +91,7 @@ const install = () => {
     )
 
     console.log('')
-    console.log(```Start new project by typing:`
-    )
+    console.log('Start new project by typing:')
 
     console.log('')
     console.log(
