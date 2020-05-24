@@ -1,6 +1,6 @@
 {
   "name": "incipar",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Minimal starter for React app.",
   "main": "index.js",
   "scripts": {
